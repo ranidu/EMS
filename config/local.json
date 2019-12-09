@@ -1,0 +1,15 @@
+{
+  "app": {
+    "port": 2010
+  },
+  "email": {
+    "time": {
+      "timezone": "Australia/Melbourne",
+      "deliverStart": "08:00:00",
+      "deliverEnds": "17:00:00"
+    }
+  },
+  "sendGrid": {
+    "apiKey": "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"
+  }
+}
