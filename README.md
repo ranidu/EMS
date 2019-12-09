@@ -22,6 +22,11 @@ npm run start
 npm run test
 ```
 
+# WEBHOOK
+since the project is running on local, i have used ngrok to bind the local URL.
+bind URL should be updated inside https://app.sendgrid.com/settings/mail_settings  > Event Notification.
+
+
 # ENDPOINTS
 
 ```
