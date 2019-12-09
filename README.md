@@ -1,4 +1,4 @@
-# EMS for :Diffrent 
+# EMS for :Different 
 
 ## Quick Setup
 
@@ -7,7 +7,7 @@
 npm install
 ```
 
-2.Run Redis 
+2.Run Redis (Application using in-memory database)
 
 
 ## Running The APP
