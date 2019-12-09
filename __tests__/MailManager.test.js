@@ -5,7 +5,6 @@ import config from "../config/local.json";
 describe("MailManager Test", () => {
     const sendGrid = new SendGridProvider(config.sendGrid);
     let mailManager = new MailManager(sendGrid, config);
-    console.log(config)
 
     it("successful email send", async() => {
         let payload = {
