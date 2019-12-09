@@ -1,5 +1,5 @@
 import { IEmailProvider } from "./Util/AppInterface";
-import redisClient from "./Util/common";
+import redisClient from "./Util/Common";
 import moment from "moment";
 
 export class MailManager {
