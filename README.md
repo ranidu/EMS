@@ -22,7 +22,7 @@ npm run start
 npm run test
 ```
 
-# ENEDPOINTS
+# ENDPOINTS
 
 ```
 POST http://localhost:2010/v1/emails  
