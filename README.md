@@ -1,4 +1,4 @@
-# EMS for :Different 
+# EMS
 
 ## Quick Setup
 
